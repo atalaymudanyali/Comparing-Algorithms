@@ -1,0 +1,6 @@
+﻿################################################################################
+# Bu .gitignore dosyası Microsoft(R) Visual Studio tarafından otomatik olarak oluşturulmuştur.
+################################################################################
+
+/project/.vs/project/v17/Browse.VC.db
+/project/.vs/project/v17/Browse.VC.opendb
